@@ -9,7 +9,7 @@ To ensure complete academic and computational transparency, all projects in this
 You can navigate the specific computational analyses and their associated Mathematica code via the direct links below:
 
 * [📄 The Research Poster "Compressing Complexity: How PCA and NCA Uncover Hidden Structure"](./The%20Research%20Poster%20Compressing%20Complexity.pdf)
-  * **Description:** A comprehensive comparative analysis evaluating Principal Component Analysis (unsupervised) versus Neighborhood Components Analysis (supervised) for high-dimensional feature space compression. Includes full Mathematica algorithms for covariance matrix factorization, singular value decomposition, and classification scoring.
+  * **Description:** A comprehensive comparative analysis evaluating Principal Component Analysis versus Neighborhood Components Analysis for high-dimensional feature space compression. Includes full Mathematica algorithms for covariance matrix factorization, singular value decomposition, and classification scoring.
   * **Core Concepts:** Matrix Factorization, Spectral Theorem, Principal Component Analysis (PCA), Neighborhood Components Analysis (NCA).
   * **Impact & Code Execution:** Custom Mathematica scripts achieved a 98% classification accuracy on high-dimensional test datasets.
 
@@ -30,12 +30,9 @@ You can navigate the specific computational analyses and their associated Mathem
 
 ***
 
-## 🛠️ Technical Stack & Software Architecture
+## Technical Stack & Software Architecture
 
 * **Primary Computational Engine:** Wolfram Language (Mathematica v14.3)
 * **Core Methodologies:** Numerical Linear Algebra, Hessian-Driven Optimization, Piecewise Spline Interpolation, Least Squares Optimization, and Spectral Feature Reduction.
 
 Each PDF document provides an exhaustive, end-to-end breakdown featuring theoretical derivations, step-by-step Mathematica script execution blocks, and high-resolution vector plots generated directly by the underlying code.
-
-## ⚖️ License
-This repository is licensed under the GNU General Public License v3 (GPL-3.0). This ensures the work remains open-source for academic review while protecting the proprietary commercial utilization of the underlying algorithms.
