@@ -8,7 +8,7 @@ To ensure complete academic and computational transparency, all projects in this
 
 You can navigate the specific computational analyses and their associated Mathematica code via the direct links below:
 
-* [📄 The Research Poster "Compressing Complexity: How PCA and NCA Uncover Hidden Structure"](./The%20Research%20Poster%20%22Compressing%20Complex...pdf)
+* [📄 The Research Poster "Compressing Complexity: How PCA and NCA Uncover Hidden Structure"](./The%20Research%20Poster%20%22Compressing%20"Compressing%20Complexity".pdf)
   * **Description:** A comprehensive comparative analysis evaluating Principal Component Analysis (unsupervised) versus Neighborhood Components Analysis (supervised) for high-dimensional feature space compression. Includes full Mathematica algorithms for covariance matrix factorization, singular value decomposition, and classification scoring.
   * **Core Concepts:** Matrix Factorization, Spectral Theorem, Principal Component Analysis (PCA), Neighborhood Components Analysis (NCA).
   * **Impact & Code Execution:** Custom Mathematica scripts achieved a 98% classification accuracy on high-dimensional test datasets.
